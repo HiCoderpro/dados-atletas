@@ -1,7 +1,3 @@
-Aqui está o README para o projeto:
-
----
-
 # Projeto de Cálculo de Estatísticas de Atletas
 
 Este projeto consiste em uma aplicação simples para calcular estatísticas dos atletas, como IMC (Índice de Massa Corporal) e média das notas em uma competição, além de determinar a categoria do atleta com base na idade.
@@ -39,11 +35,3 @@ console.log(`Média válida: ${atleta.calculaMediaValida()}`);
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar bugs, problemas ou tiver sugestões de melhorias, por favor, abra uma issue neste repositório ou envie um pull request com suas alterações.
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
-
-Sinta-se à vontade para personalizar este README de acordo com as necessidades específicas do seu projeto.
